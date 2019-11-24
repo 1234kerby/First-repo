@@ -1,4 +1,4 @@
-![headshot](IMG_0628.MOV)
+![headshot](IMG_0628 sirga.jpg)
 
 # Practice-repo
 First Github repository - just trying it out 
