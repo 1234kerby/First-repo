@@ -1,4 +1,4 @@
-![headshot](sarah_pic.jpeg)
+![headshot](IMG_0628.MOV)
 
 # Practice-repo
 First Github repository - just trying it out 
