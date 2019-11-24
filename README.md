@@ -1,3 +1,5 @@
+![headshot](sarah_pic.jpeg)
+
 # Practice-repo
 First Github repository - just trying it out 
 
