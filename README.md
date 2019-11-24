@@ -1,4 +1,4 @@
-
+![IMG_0628 sirga](https://user-images.githubusercontent.com/58120968/69496946-9fb42f00-0ea5-11ea-82df-289f3f5c499f.jpg)
 # Practice-repo
 First Github repository - just trying it out 
 
