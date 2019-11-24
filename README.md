@@ -8,4 +8,16 @@ Hello there; wanted to write this text as a lil introductory script since this i
 # Vision
 My primary goal starting off as a rookie programmer is a bit bleak; I intially started off because I wanted to build an Algo trading program to Implement in my trading strategy and sort of "eat at as many pips" as I can, but then came the challenge of not knowing where to start (for me atleast) & having to start off @ the roots of coding to properly learn how build an algo, but along the line I got Interested in all the other (current) opportunities programming can bring & decided to dig deeper and not just think of coding @ a 2nd dimension money hungry level. Although I dont know what my future projects may be, I do plan to continue to broaden my understanding of programming & technology altogether & hopefully excel and shine @ the highest degree (No Debate). 
 
-# My letter to the universe
+### My letter to the universe
+
+## My favorite book's
+- The executioner
+- The alchemist
+- The key to midnight
+
+## My favorite movie's
+- project almanac 
+- project X
+- Echo
+
+
